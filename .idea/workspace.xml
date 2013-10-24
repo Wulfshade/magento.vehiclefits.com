@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2729cb75-99bc-4609-89b7-1cad16d52e05" name="Default" comment="" />
+    <ignored path="demo.vehiclefits.com.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366676526730" ignored="false" />
+    <file path="/a.dummy" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1382653798937" ignored="false" />
+    <file path="/*.regexp" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366681180986" ignored="false" />
+    <file path="$PROJECT_DIR$/../magento/lib/VF/html/Js/submits.js.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366677060933" ignored="false" />
+    <file path="/submits.js.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366677062601" ignored="false" />
+    <file path="$PROJECT_DIR$/../magento/lib/VF/html/vafAjaxTests/qunitrunner.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366678019688" ignored="false" />
+    <file path="$PROJECT_DIR$/../magento/app/code/local/Elite/Vaftest/controllers/Admin/VehicleslistController.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366677766836" ignored="false" />
+    <file path="$PROJECT_DIR$/../magento/vafAjaxTests/multiTreeTest/MMY.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366679131718" ignored="false" />
+    <file path="$PROJECT_DIR$/../magento/app/code/local/Elite/Vaf/controllers/Admin/VehicleslistController.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366678901776" ignored="false" />
+    <file path="/VehicleslistController.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366678892682" ignored="false" />
+    <file path="$PROJECT_DIR$/../magento/lib/VF/html/vafAjaxTests/multiTreeTest/MMY.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366679148244" ignored="false" />
+    <file path="/MMY.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366679109756" ignored="false" />
+    <file path="$PROJECT_DIR$/../magento/vafAjaxTests/multiTreeTest/removeTmpLockFile.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366679147132" ignored="false" />
+    <file path="/removeTmpLockFile.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366679046103" ignored="false" />
+    <file path="$PROJECT_DIR$/../magento/app/code/local/Elite/Vaf/bootstrap.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366679902594" ignored="false" />
+    <file path="$PROJECT_DIR$/../magento/app/code/local/Elite/Vaf/Helper/Data.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366679900084" ignored="false" />
+    <file path="/Data.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366679884353" ignored="false" />
+    <file path="$PROJECT_DIR$/../magento/app/code/local/Elite/vaf.sql" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366680254719" ignored="false" />
+    <file path="$PROJECT_DIR$/../magento/lib/VF/Schema/Generator.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366680309058" ignored="false" />
+    <file path="$PROJECT_DIR$/../magento/app/code/local/Elite/Vafinstall/MigrateBase.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366680462257" ignored="false" />
+    <file path="/MigrateBase.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366680460550" ignored="false" />
+    <file path="/install-db.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366680810409" ignored="false" />
+    <file path="$PROJECT_DIR$/../magento/app/code/local/Elite/Vafinstall/includes/install-db.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366680812525" ignored="false" />
+    <file path="$PROJECT_DIR$/../magento/app/code/local/Elite/install-vaf.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366680641864" ignored="false" />
+    <file path="/install-vaf.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366680642561" ignored="false" />
+    <file path="$PROJECT_DIR$/../magento/vf-documentation/install.htm" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366680909368" ignored="false" />
+    <file path="/install.htm" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366680909368" ignored="false" />
+    <file path="$PROJECT_DIR$/../magento/vf-documentation/changinglevels.htm" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366681005310" ignored="false" />
+    <file path="/changinglevels.htm" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366680990881" ignored="false" />
+    <file path="$PROJECT_DIR$/../magento/vf-documentation/upgrading.htm" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366681080919" ignored="false" />
+    <file path="/upgrading.htm" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366681080919" ignored="false" />
+    <file path="$PROJECT_DIR$/../magento/vf-documentation/toc.htm" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366681144896" ignored="false" />
+    <file path="/toc.htm" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366681138894" ignored="false" />
+    <file path="/*.txt" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366681201832" ignored="false" />
+    <file path="$PROJECT_DIR$/../magento/app/code/local/Elite/Vafbundle/etc/config.xml" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366681209948" ignored="false" />
+    <file path="$PROJECT_DIR$/../magento/app/code/local/Elite/Vafwheel/etc/config.xml" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366681209948" ignored="false" />
+    <file path="$PROJECT_DIR$/../magento/app/code/local/Elite/Vafnote/etc/config.xml" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366681209948" ignored="false" />
+    <file path="$PROJECT_DIR$/../magento/app/code/local/Elite/Vaflogo/etc/config.xml" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366681209948" ignored="false" />
+    <file path="$PROJECT_DIR$/../magento/app/code/local/Elite/Vafgarage/etc/config.xml" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366681209948" ignored="false" />
+    <file path="$PROJECT_DIR$/../magento/app/code/local/Elite/Vafsitemap/etc/config.xml" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366681209948" ignored="false" />
+    <file path="$PROJECT_DIR$/../magento/app/code/local/Elite/Vaftire/etc/config.xml" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366681209948" ignored="false" />
+    <file path="$PROJECT_DIR$/../magento/app/code/local/Elite/Vaf/etc/config.xml" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366681209948" ignored="false" />
+    <file path="$PROJECT_DIR$/../magento/app/code/local/Elite/Vafwheeladapter/etc/config.xml" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366681209948" ignored="false" />
+    <file path="$PROJECT_DIR$/../magento/app/code/local/Elite/Vafpaint/etc/config.xml" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366681209948" ignored="false" />
+    <file path="$PROJECT_DIR$/../magento/app/code/local/Elite/Vaflinks/etc/config.xml" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366681209948" ignored="false" />
+    <file path="$PROJECT_DIR$/../magento/app/code/local/Elite/Vafimporter/etc/config.xml" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366681209948" ignored="false" />
+    <file path="$PROJECT_DIR$/../vehiclefits.com/html/zend.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366687650386" ignored="false" />
+    <file path="$PROJECT_DIR$/../vehiclefits.com/application/bootstrap.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366688190823" ignored="false" />
+    <file path="/bootstrap.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366687732830" ignored="false" />
+    <file path="$PROJECT_DIR$/../vehiclefits.com/application/Default/views/scripts/layout.phtml" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366689477137" ignored="false" />
+    <file path="$PROJECT_DIR$/../vehiclefits.com/application/Default/views/scripts/index/index.phtml" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366687920024" ignored="false" />
+    <file path="/index.phtml" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366690248286" ignored="false" />
+    <file path="$PROJECT_DIR$/../vehiclefits.com/application/Default/controllers/IndexController.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366688399197" ignored="false" />
+    <file path="/IndexController.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366688032023" ignored="false" />
+    <file path="$PROJECT_DIR$/../vehiclefits.com/html/index.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366687983548" ignored="false" />
+    <file path="$PROJECT_DIR$/../vehiclefits.com/application/Default/views/scripts/template.phtml" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366687988916" ignored="false" />
+    <file path="/layout.phtml" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366688694001" ignored="false" />
+    <file path="$PROJECT_DIR$/../vehiclefits.com/application/Default/views/scripts/navigation.phtml" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366690415449" ignored="false" />
+    <file path="/navigation.phtml" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366690020056" ignored="false" />
+    <file path="$PROJECT_DIR$/../vehiclefits.com/application/Default/controllers/download.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366688466450" ignored="false" />
+    <file path="/Standard.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366688782589" ignored="false" />
+    <file path="$PROJECT_DIR$/../vehiclefits.com/library/Zend/Controller/Dispatcher/Standard.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366688854667" ignored="false" />
+    <file path="$PROJECT_DIR$/../vehiclefits.com/application/Default/controllers/DownloadController.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366688845713" ignored="false" />
+    <file path="$PROJECT_DIR$/../vehiclefits.com/html/.htaccess" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366689027191" ignored="false" />
+    <file path="$PROJECT_DIR$/../vehiclefits.com/application/Default/controllers/SupportController.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366689275862" ignored="false" />
+    <file path="/SupportController.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366689239741" ignored="false" />
+    <file path="$PROJECT_DIR$/../vehiclefits.com/application/Default/controllers/Product-tourController.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366689138324" ignored="false" />
+    <file path="/Product-tourController.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366689128039" ignored="false" />
+    <file path="$PROJECT_DIR$/../vehiclefits.com/application/Default/controllers/DemoController.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366689191551" ignored="false" />
+    <file path="/DemoController.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366689188718" ignored="false" />
+    <file path="$PROJECT_DIR$/../vehiclefits.com/application/Default/controllers/ContactController.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366689219990" ignored="false" />
+    <file path="/ContactController.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366689217904" ignored="false" />
+    <file path="/FaqController.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366689271432" ignored="false" />
+    <file path="$PROJECT_DIR$/../vehiclefits.com/application/Default/controllers/FaqController.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366689273097" ignored="false" />
+    <file path="$PROJECT_DIR$/../vehiclefits.com/application/Default/controllers/ResourcesController.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366689324562" ignored="false" />
+    <file path="/ResourcesController.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366689324562" ignored="false" />
+    <file path="/ExamplesitesController.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366689349797" ignored="false" />
+    <file path="$PROJECT_DIR$/../vehiclefits.com/application/Default/controllers/ExamplesitesController.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366689361524" ignored="false" />
+    <file path="$PROJECT_DIR$/../vehiclefits.com/application/Default/controllers/ChangelogController.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366689566882" ignored="false" />
+    <file path="/ChangelogController.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366689558997" ignored="false" />
+    <file path="$PROJECT_DIR$/../vehiclefits.com/application/Default/views/scripts/resources.phtml" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366689462712" ignored="false" />
+    <file path="$PROJECT_DIR$/../vehiclefits.com/application/Default/views/scripts/index.phtml" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366690513300" ignored="false" />
+    <file path="/AboutController.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366690203684" ignored="false" />
+    <file path="$PROJECT_DIR$/../vehiclefits.com/application/Default/controllers/AboutController.php" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366690215223" ignored="false" />
+    <file path="$PROJECT_DIR$/../vehiclefits.com/application/Default/views/scripts/features.phtml" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366690072132" ignored="false" />
+    <file path="/style.css" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366690466093" ignored="false" />
+    <file path="$PROJECT_DIR$/../vehiclefits.com/html/skin/style.css" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366690654417" ignored="false" />
+    <file path="$PROJECT_DIR$/../vehiclefits.com/application/Default/views/scripts/tourlinks.phtml" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366690504948" ignored="false" />
+    <file path="/styles.css" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366691139025" ignored="false" />
+    <file path="/footer.phtml" changelist="2729cb75-99bc-4609-89b7-1cad16d52e05" time="1366691265888" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="demo.vehiclefits.com" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/html/app/code/local/Elite/Vaf/config.ini" />
+        <option value="$PROJECT_DIR$/html/app/design/frontend/default/blank/template/page/html/footer.phtml" />
+        <option value="$PROJECT_DIR$/html/app/design/frontend/default/default/layout/vaf.xml" />
+        <option value="$PROJECT_DIR$/html/app/etc/local.xml" />
+        <option value="$PROJECT_DIR$/html/app/design/frontend/base/default/layout/vf/vafwheeladapter.xml" />
+        <option value="$PROJECT_DIR$/html/app/design/frontend/base/default/layout/vf/vafwheel.xml" />
+        <option value="$PROJECT_DIR$/html/app/design/frontend/base/default/layout/vf/vaftire.xml" />
+        <option value="$PROJECT_DIR$/html/app/design/frontend/default/blank/template/page/html/header.phtml" />
+        <option value="$PROJECT_DIR$/html/app/design/frontend/base/default/layout/vf/vaf.xml" />
+        <option value="$PROJECT_DIR$/html/skin/frontend/default/blank/css/styles.css" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1615" />
+    <option name="height" value="1026" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo.vehiclefits.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo.vehiclefits.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo.vehiclefits.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo.vehiclefits.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo.vehiclefits.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo.vehiclefits.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo.vehiclefits.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo.vehiclefits.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo.vehiclefits.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo.vehiclefits.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo.vehiclefits.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="etc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo.vehiclefits.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo.vehiclefits.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo.vehiclefits.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo.vehiclefits.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo.vehiclefits.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo.vehiclefits.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="checkout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="item" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo.vehiclefits.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo.vehiclefits.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo.vehiclefits.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo.vehiclefits.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo.vehiclefits.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo.vehiclefits.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pagecache" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo.vehiclefits.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo.vehiclefits.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo.vehiclefits.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo.vehiclefits.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo.vehiclefits.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo.vehiclefits.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="web-ide.project.structure" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RunManager">
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2729cb75-99bc-4609-89b7-1cad16d52e05" name="Default" comment="" />
+      <created>1366676337093</created>
+      <updated>1366676337093</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1615" height="1026" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26003823" sideWeight="0.6710671" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/html/skin/frontend/default/blank/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="1" selection-start="938" selection-end="938" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/app/design/frontend/default/blank/template/page/html/footer.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="9" selection-start="1012" selection-end="1338" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/app/etc/local.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="38" selection-start="1662" selection-end="1662" vertical-scroll-proportion="0.7644394">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/app/design/frontend/default/blank/template/page/html/footer.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="9" selection-start="1012" selection-end="1338" vertical-scroll-proportion="-2.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/app/design/frontend/base/default/template/page/html/header.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="6" selection-start="2104" selection-end="2104" vertical-scroll-proportion="0.4016298">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/app/design/frontend/base/default/template/page/html/top.links.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/app/design/frontend/default/blank/template/page/html/header.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="30" selection-start="1979" selection-end="1979" vertical-scroll-proportion="0.33178115">
+          <folding>
+            <element signature="e#2042#2107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/app/design/frontend/base/default/template/page/html/head.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/app/design/adminhtml/default/default/layout/vaf.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="25" selection-start="190" selection-end="190" vertical-scroll-proportion="0.101925254">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/app/design/frontend/base/default/layout/vf/vaf.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="31" selection-start="657" selection-end="657" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/skin/frontend/default/blank/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="448" selection-end="573" vertical-scroll-proportion="0.202718">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
